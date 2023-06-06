@@ -1,5 +1,5 @@
 // Get All Variables :
-{
+
     let balance = document.getElementById("balance");
     let totalAmount = document.getElementById("total-amount");
     let totalBudget = document.getElementById("total-budget");
@@ -132,4 +132,3 @@
     };
 
     all_data();
-}
